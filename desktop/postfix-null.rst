@@ -3,11 +3,11 @@ System Mails
 
 Usually personal computers are not set up to send mail out on their own.
 
-However like every Linux system, their are lot of things going on in the
-background, mostly invisible to the user. Their are some useful features which
+However like every Linux system, there are lot of things going on in the
+background, mostly invisible to the user. there are some useful features which
 are only possible if the system can tell you about.
 
-For example, did you know that, of somebody tries to log-in on your personal
+For example, did you know that, if somebody tries to log-in on your personal
 computer and fails, the system tries to notify you by mail?
 
 This works only if the system is able to send out mails.
